@@ -1,0 +1,9 @@
+{
+	"RepoBase": "/var/deploy",
+	"RepoName": "some_api",
+	"RepoURL": "git@github.com:rahulg/same-api.git",
+	"Branch": "master",
+	"Address": ":11111",
+	"DeployScript": "deploy/setup.sh",
+	"UpdateScript": "deploy/update.sh"
+}
